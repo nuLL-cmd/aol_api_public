@@ -1,6 +1,7 @@
 # aol-api
 
 This is person project, for applicatin mobbile AoL (comming son - android only).
+## Original project is private ##
 
 This project was developed using the following technologies:
 
